@@ -7,6 +7,7 @@ TEAM_NAME_MAP = {
 	"Delhi Daredevils": "Delhi Capitals",
 	"Kings XI Punjab": "Punjab Kings",
 	"Deccan Chargers": "Sunrisers Hyderabad",
+	"Rising Pune Supergiant": "Rising Pune Supergiants",
 }
 
 PLAYER_NAME_MAP = {
